@@ -76,13 +76,29 @@ small {
   font-weight: bolder;
 }
 
+.carol-cover {
+  height: 70vh;
+}
+
 .new-arrive{
   font-size: 1.2rem;
   font-weight: 900;
 }
 
-.key-set {
-  top: 20px;
+.hotpro-img {
+  width: 279px;
 }
+
+.hot-matter1 {
+  right: 5px;
+  bottom: 5px;
+}
+
+.hot-matter2 {
+  left: 5px;
+  bottom: 5px;
+}
+
+
 
 
