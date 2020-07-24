@@ -1,4 +1,87 @@
-
-main { 
-    background-color: blue;
+* {
+  padding: 0;
+  margin: 0;
 }
+
+body {
+  font-family: sans-serif, Helvetica, Montserrat;
+}
+
+.link-text {
+  color: #888888;
+  font-size: 0.65rem;   
+}
+
+.top-img {
+  background-color: #D35266;
+  height: 30px;
+  width: 30px;
+}
+
+.zat-img {
+  width: 30px;
+}
+
+.profile {
+  color: #888888;
+}
+
+.nav-top {
+  background-color: #383838;
+}
+
+.home {
+  color: #D35266;
+}
+
+.new {
+  color: #383838;
+}
+
+small {
+  font-size: 0.65rem;
+  font-weight: 500;
+}
+
+.low-head {
+  color: #888888;
+  font-size: 20px;
+}
+
+.nav-btn {
+  background-color: #D35266;
+}
+
+.top-caption {
+  width: 60px;
+  height: 70px;
+}
+
+.search-result {
+  background-color: #383838;
+  color: #888888;
+}
+
+.tog-bar {
+  background-color: #D35266;
+  margin-right: 20px;
+}
+
+.tog-icon {
+  width: 50px;
+}
+
+.pro-update {
+  font-size: 2.5rem;
+  font-weight: bolder;
+}
+
+.new-arrive{
+  font-size: 1.5rem;
+  font-weight: 900;
+}
+
+.key-set {
+  top: 20px;
+}
+  
