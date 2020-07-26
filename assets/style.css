@@ -8,7 +8,7 @@ body {
 }
 
 .link-text {
-  color: #888888;
+  color: #888;
   font-size: 0.65rem;   
 }
 
@@ -23,7 +23,7 @@ body {
 }
 
 .profile {
-  color: #888888;
+  color: #888;
 }
 
 .nav-top {
@@ -38,13 +38,24 @@ body {
   color: #383838;
 }
 
+.categ-tag {
+  border-bottom: 1px solid #D35266;
+  color: #D35266;
+  font-size: 20px;
+}
+
 small {
   font-size: 0.65rem;
   font-weight: 500;
 }
 
+.footer-list li {
+  font-size: 0.9rem;
+  list-style-type: none;
+}
+
 .low-head {
-  color: #888888;
+  color: #888;
   font-size: 20px;
 }
 
@@ -57,9 +68,14 @@ small {
   height: 70px;
 }
 
+.footer-copyright-text {
+  font-size: 0.8rem;
+  color: #888;
+}
+
 .search-result {
   background-color: #383838;
-  color: #888888;
+  color: #888;
 }
 
 .tog-bar {
@@ -78,7 +94,7 @@ small {
 
 .new-arrive{
   font-size: 1rem;
-  color: #888888;
+  color: #888;
 }
 
 .hotpro-img {
