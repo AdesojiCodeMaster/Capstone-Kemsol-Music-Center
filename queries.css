@@ -1,0 +1,6 @@
+/* @575px */
+@media (max-width: 575px) { 
+  .kem-img {
+    display: none;
+  }
+}

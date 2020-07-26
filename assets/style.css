@@ -30,6 +30,11 @@ body {
   background-color: #383838;
 }
 
+.big-header{
+ font-weight: bolder;
+ font-size: 30px;
+}
+
 .home {
   color: #D35266;
 }
