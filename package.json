@@ -1,0 +1,26 @@
+{
+  "name": "capstone-kemsol-music-center",
+  "version": "1.0.0",
+  "description": "Capstone Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdesojiCodeMaster/Capstone-Kemsol-Music-Center.git"
+  },
+  "keywords": [
+    "Capstone",
+    "Project"
+  ],
+  "author": "Adesoji Adewumi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdesojiCodeMaster/Capstone-Kemsol-Music-Center/issues"
+  },
+  "homepage": "https://github.com/AdesojiCodeMaster/Capstone-Kemsol-Music-Center#readme",
+  "devDependencies": {
+    "hint": "^6.0.7"
+  }
+}
