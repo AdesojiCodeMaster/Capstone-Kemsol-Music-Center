@@ -3,7 +3,7 @@ MICROVERSE CAPSTONE PROJECT
 
 ## Capstone Project Title: Capstone-Kemsol-Music-Center
 
-This capstone project was created a using HTML, CSS and BOOTSTRAP. In this project I was required to create a customised Website(In my own case I made it to Musical Instruments Website intead of Electronics Website in the original) with Homepage and Search Results Page which is a replica of [ZATTIX](https://www.behance.net/gallery/24796463/ZATTIX) by Mohammed Awad. The home page is the landing page from where one can navigate to search results page by clicking search button at the top in the home page.
+This capstone project was created a using HTML, CSS and BOOTSTRAP. In this project I was required to create a customised Website(In my own case I made it to be Musical Instruments Website intead of Electronics Website in the original) with Homepage and Search Results Page which is a replica of [ZATTIX](https://www.behance.net/gallery/24796463/ZATTIX) by Mohammed Awad. The home page is the landing page from where one can navigate to search results page by clicking search button at the top in the home page.
 
 
 ![Homepage-screenshot](./assets/homepagescreenshot.png)
@@ -19,7 +19,7 @@ In this project (Capstone-Kemsol-Music-Center) I created a customised website si
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/AdesojiCodeMaster/Capstone-Kemsol-Music-Center/d82121cfe5bd04de140f1530e59c8282fa5ef3ae/index.html)
+[Live Demo Link](https://rawcdn.githack.com/AdesojiCodeMaster/Capstone-Kemsol-Music-Center/3cb4c4065535fbdf11b664ec2f72fb2ab3225f7e/index.html)
 
 
 ## Author
