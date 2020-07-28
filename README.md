@@ -19,7 +19,7 @@ In this project (Capstone-Kemsol-Music-Center) I created a customised website si
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/AdesojiCodeMaster/Capstone-Kemsol-Music-Center/3cb4c4065535fbdf11b664ec2f72fb2ab3225f7e/index.html)
+[Live Demo Link](https://rawcdn.githack.com/AdesojiCodeMaster/Capstone-Kemsol-Music-Center/ec58d4c2e4ed952cc5c07e6868b2ada66c49ae82/index.html)
 
 
 ## Author
@@ -47,4 +47,4 @@ Give a ⭐️ if you like this project!
 
  ## 📝 License MIT
 
-This project is open licensed.
+This project is an open licensed.
