@@ -9,11 +9,11 @@ body {
 
 .link-text {
   color: #888;
-  font-size: 0.65rem;   
+  font-size: 0.65rem;
 }
 
 .top-img {
-  background-color: #D35266;
+  background-color: #d35266;
   height: 30px;
   width: 30px;
 }
@@ -30,13 +30,13 @@ body {
   background-color: #383838;
 }
 
-.big-header{
- font-weight: bolder;
- font-size: 30px;
+.big-header {
+  font-weight: bolder;
+  font-size: 30px;
 }
 
 .home {
-  color: #D35266;
+  color: #d35266;
 }
 
 .new {
@@ -45,7 +45,7 @@ body {
 
 .categ-tag {
   border-bottom: 1px solid #D35266;
-  color: #D35266;
+  color: #d35266;
   font-size: 20px;
 }
 
@@ -78,18 +78,18 @@ small {
   color: #888;
 }
 
-.search-result:hover{
-  color: #fff;
-  text-decoration-line: none;
-}
-
 .search-result {
   background-color: #383838;
   color: #888;
 }
 
+.search-result:hover {
+  color: #fff;
+  text-decoration-line: none;
+}
+
 .tog-bar {
-  background-color: #D35266;
+  background-color: #d35266;
   margin-right: 20px;
 }
 
@@ -102,9 +102,9 @@ small {
   font-weight: bolder;
 }
 
-.new-arrive{
-  font-size: 1rem;
+.new-arrive {
   color: #888;
+  font-size: 1rem;
 }
 
 .hotpro-img {
@@ -112,8 +112,8 @@ small {
 }
 
 .buy-text {
-  font-size: 1.3rem;
   color: #888;
+  font-size: 1.3rem;
 }
 
 h1 {
@@ -126,7 +126,7 @@ h1 {
 }
 
 .shopping-cartalog > h2:hover {
-  color: #D35266;
+  color: #d35266;
 }
 
 .shop-by {
@@ -140,14 +140,5 @@ h1 {
 }
 
 .my-page:hover {
-  background-color: #D35266;
+  background-color: #d35266;
 }
-
-
-
-
-
-
-
-
-

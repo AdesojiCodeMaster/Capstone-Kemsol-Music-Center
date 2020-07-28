@@ -1,17 +1,17 @@
 /* @575px */
-@media (max-width: 575px) { 
+@media (max-width: 575px) {
   .kem-img {
     display: none;
   }
 }
 
-@media (max-width: 764px) { 
+@media (max-width: 764px) {
   .form-font {
     font-size: 12px;
   }
 }
 
-@media (max-width: 550px) { 
+@media (max-width: 550px) {
   .form-font {
     font-size: 10px;
   }
