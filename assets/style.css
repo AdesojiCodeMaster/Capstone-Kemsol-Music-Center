@@ -78,7 +78,7 @@ small {
   color: #888;
 }
 
-.search-result > a:hover{
+.search-result:hover{
   color: #fff;
   text-decoration-line: none;
 }
