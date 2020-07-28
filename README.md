@@ -19,7 +19,10 @@ In this project (Capstone-Kemsol-Music-Center) I created a customised website si
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/AdesojiCodeMaster/Capstone-Kemsol-Music-Center/4691873f9699d99ec7d1968e5138464805e9cecb/index.html)
+[Live Demo Link](https://rawcdn.githack.com/AdesojiCodeMaster/Capstone-Kemsol-Music-Center/1b8950d51f603fac0d2b14c33ec86098d6c4da41/index.html)
+
+[Video Link](https://www.loom.com/share/08bc4a6e9fe74b59926a21ad56e2d793)
+
 
 
 ## Author
