@@ -5,6 +5,8 @@
 
 body {
   font-family: sans-serif, Helvetica, Montserrat;
+  max-width: 100%;
+  overflow-x: hidden;
 }
 
 .link-text {
@@ -16,6 +18,10 @@ body {
   background-color: #d35266;
   height: 30px;
   width: 30px;
+}
+
+.toplink:hover {
+  color: #fff;
 }
 
 .zat-img {
@@ -98,7 +104,7 @@ small {
 }
 
 .tog-icon {
-  width: 50px;
+  width: 0;
 }
 
 .pro-update {

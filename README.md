@@ -13,13 +13,13 @@ In this project (Capstone-Kemsol-Music-Center) I created a customised website si
 
 ## Built With
 
-- HTML,
+- HTML5,
 - CSS3,
 - Bootstrap.
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/AdesojiCodeMaster/Capstone-Kemsol-Music-Center/ec58d4c2e4ed952cc5c07e6868b2ada66c49ae82/index.html)
+[Live Demo Link](https://rawcdn.githack.com/AdesojiCodeMaster/Capstone-Kemsol-Music-Center/4691873f9699d99ec7d1968e5138464805e9cecb/index.html)
 
 
 ## Author
