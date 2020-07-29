@@ -41,7 +41,8 @@ body {
   font-size: 30px;
 }
 
-.home {
+.home,
+.shopping-cartalog > h2:hover {
   color: #d35266;
 }
 
@@ -74,7 +75,8 @@ small {
   font-size: 20px;
 }
 
-.nav-btn {
+.nav-btn,
+.my-page:hover {
   background-color: #d35266;
 }
 
@@ -135,10 +137,6 @@ h1 {
   font-size: 1rem;
 }
 
-.shopping-cartalog > h2:hover {
-  color: #d35266;
-}
-
 .shop-by {
   font-size: 1.2rem;
   font-weight: 600;
@@ -147,10 +145,6 @@ h1 {
 .price-tag {
   color: #383838;
   font-size: 1.15rem;
-}
-
-.my-page:hover {
-  background-color: #d35266;
 }
 
 .chev-icons {
