@@ -152,3 +152,8 @@ h1 {
 .my-page:hover {
   background-color: #d35266;
 }
+
+.chev-icons {
+  background-color: #383838;
+  bottom: 30px;
+}
