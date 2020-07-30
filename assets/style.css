@@ -1,0 +1,207 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: sans-serif, Helvetica, Montserrat;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+.link-text {
+  color: #888;
+  font-size: 0.65rem;
+}
+
+.top-img {
+  background-color: #d35266;
+  height: 30px;
+  width: 30px;
+}
+
+.toplink:hover {
+  color: #fff;
+}
+
+.zat-img {
+  width: 30px;
+}
+
+.profile {
+  color: #888;
+}
+
+.nav-top {
+  background-color: #383838;
+}
+
+.big-header {
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+.home,
+.shopping-cartalog > h2:hover {
+  color: #d35266;
+}
+
+.new {
+  color: #383838;
+}
+
+.categ-tag {
+  border-bottom: 1px solid #d35266;
+  color: #d35266;
+  font-size: 20px;
+}
+
+small {
+  font-size: 0.65rem;
+  font-weight: 500;
+}
+
+.form-font {
+  margin-right: 2px;
+}
+
+.footer-list li {
+  font-size: 0.9rem;
+  list-style-type: none;
+}
+
+.low-head {
+  color: #888;
+  font-size: 20px;
+}
+
+.nav-btn,
+.my-page:hover {
+  background-color: #d35266;
+}
+
+.top-caption {
+  width: 60px;
+  height: 70px;
+}
+
+.footer-copyright-text {
+  font-size: 0.8rem;
+  color: #888;
+}
+
+.search-result {
+  background-color: #383838;
+  color: #888;
+}
+
+.search-result:hover {
+  color: #fff;
+  text-decoration-line: none;
+}
+
+.tog-bar {
+  background-color: #d35266;
+  margin-right: 20px;
+}
+
+.tog-icon {
+  width: 0;
+}
+
+.pro-update {
+  font-size: 1.5rem;
+  font-weight: bolder;
+}
+
+.new-arrive {
+  color: #888;
+  font-size: 1rem;
+}
+
+.hotpro-img {
+  width: 279px;
+}
+
+.buy-text {
+  color: #888;
+  font-size: 1.3rem;
+}
+
+h1 {
+  font-size: 1.1rem;
+  font-weight: 900;
+}
+
+.all-items {
+  font-size: 1rem;
+}
+
+.shop-by {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.price-tag {
+  color: #383838;
+  font-size: 1.15rem;
+}
+
+.chev-icons {
+  background-color: #383838;
+  bottom: 30px;
+}
+
+/* @575px */
+@media (max-width: 575px) {
+  .kem-img {
+    display: none;
+  }
+}
+
+@media (max-width: 764px) {
+  .form-font {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 550px) {
+  .form-font {
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 991px) {
+  .bgscreen {
+    display: none;
+  }
+}
+
+@media (min-width: 992px) {
+  .mdscreen {
+    display: none;
+  }
+}
+
+@media (min-width: 391px) and (max-width: 767px) {
+  .result-page {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+  }
+}
+
+@media (max-width: 390px) {
+  .result-page {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .category-sect {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .price-term {
+    margin: 50px 0 0 20px;
+  }
+}
