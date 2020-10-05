@@ -31,7 +31,7 @@ In this project (Capstone-Kemsol-Music-Center) I created a customised website si
 
 - Github: [@AdesojiCodeMaster](https://github.com/AdesojiCodeMaster)
 - Twitter: [@codemas22665735](https://twitter.com/codemas22665735)
-- Linkedin: [linkedin](https://www.linkedin.com/in/adesoji-adewumi-7752aba5)
+- Linkedin: [linkedin](https://www.linkedin.com/in/adesoji-adewumi)
 
 ## 🤝 Contributing
 
